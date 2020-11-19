@@ -1,4 +1,7 @@
-### Hi there 👋
+Hello There, I am Sebastian ^^ and this is README. <>
+
+I'm just a University student who passion is technology and design. In brief I can say that I am person who appreciates good using of minimalism and perfection in every aspect of life. Why? because correct use of minimalism is difficult. 
+
 
 <!--
 **SKJ666/SKJ666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
