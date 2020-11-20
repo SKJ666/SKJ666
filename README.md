@@ -2,7 +2,8 @@
 
 Hello There, I am Sebastian ^^ and this is README. <>
 
-I'm just a University student who passion is technology and design. In brief I can say that I am person who appreciates good using of minimalism and perfection in every aspect of life. Why? because correct use of minimalism is difficultnd I think it needs some aesthetics sense to make it looks felicitously and professional.
+I'm just a University student who passion is technology and design. In brief I can say that I am person who appreciates good using of minimalism and perfection in every aspect of life. Why? because correct use of minimalism is difficult and I think it needs some aesthetics sense of "taste" to make it looks felicitously and professional.
+When I was in college one of my assign
 
 
 <!--
